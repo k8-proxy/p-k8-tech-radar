@@ -2,8 +2,8 @@
 
 <p>k8 Tech Radar is used to track what technology stack glasswal is currently using & thinking to adopt new one e.t.c</p>
 
-![k8-tech-radar Screenshot](https://lh3.googleusercontent.com/3YwK7-EbvgK-wkoZiqTTOaxaoONhk9XNtkgRL0jYPGZvlDy9e7XzaBZHHHgbRHpTD_1F7vwAT4Dp1Q=w1920-h937-rw)
-![k8-tech-radar Screenshot](https://lh5.googleusercontent.com/bNhx2eh_jmiOpqZbfmR2ijYpeNepoh_RLIjXQ1oWrBE8v9DG0eudSXtUbg_KGe-qIx5t2weciIRulA=w1920-h937-rw)
+![k8-tech-radar Screenshot](https://github.com/hunnain/p-k8-tech-radar/blob/master/src/images/techradar2.png)
+![k8-tech-radar Screenshot](https://github.com/hunnain/p-k8-tech-radar/blob/master/src/images/techradar3.png)
 
 ## How to setup
 <li>Clone the repo</li>
