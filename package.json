@@ -11,7 +11,7 @@
     "build": "webpack --mode production",
     "end_to_end_test": "node_modules/.bin/cypress run --env host=$TEST_URL",
     "cypress": "node_modules/.bin/cypress open  host=http://localhost:8080/",
-    "deploy" : "gh-pages -d build"
+    "deploy" : "gh-pages -d dist"
   },
   "author": "GlassWall",
   "repository": {

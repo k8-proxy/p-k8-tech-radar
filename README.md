@@ -1,4 +1,4 @@
-# [p-k8-tech-radar](https://github.com/k8-proxy/p-k8-tech-radar)
+# [p-k8-tech-radar](https://hunnain.github.io/p-k8-tech-radar/)
 
 <p>k8 Tech Radar is used to track what technology stack glasswal is currently using & thinking to adopt new one e.t.c</p>
 
