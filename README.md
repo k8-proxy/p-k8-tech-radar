@@ -25,5 +25,5 @@ Google Sheet will be Public
 | React      | adopt  | tools                  | TRUE  | Although the idea of dependency management ...          |
 | Electron | trial  | techniques             | FALSE | Many projects have external code dependencies ...       |
 | Elastic Search  | assess | platforms              | TRUE  | Elastic Search   ...   |
-| Python           | hold   | languages & frameworks | FALSE | Python  ... |
+| Python           | hold   | languages & frameworks | FALSE | Python  ... |  
 
