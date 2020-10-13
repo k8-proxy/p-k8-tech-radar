@@ -12,6 +12,10 @@
 ## How to run 
 <li> <i>npm run start </i></li>
 
+## Run through Docker
+<li>Clone the repo</li>
+<li>docker-compose up</li>
+
 ## Building the radar
 <li>Paste the URL in the input field on the home page.</li>
 <li>https://docs.google.com/spreadsheets/d/1x--bB18Jm94CR_zanTPtR79e-oPCyPByVJ5P-_7DkPM/edit?usp=sharing</li>
